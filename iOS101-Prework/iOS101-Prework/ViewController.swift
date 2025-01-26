@@ -12,6 +12,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        // Customizing a label
+            let titleLabel = UILabel(frame: CGRect(x: 50, y: 100, width: 300, height: 50))
+            titleLabel.text = "Welcome to ColorPop"
+            titleLabel.font = UIFont(name: "AvenirNext-Bold", size: 24)
+            titleLabel.textColor = .white
+            titleLabel.textAlignment = .center
+            view.addSubview(titleLabel)
     }
 
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
