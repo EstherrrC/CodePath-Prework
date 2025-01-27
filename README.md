@@ -1,11 +1,11 @@
 # CodePath-Prework
 CodePath prework project 
 
-# Prework - *ColorPop*
+# Prework - *CineMatch*
 
 Submitted by: **Esther Chen**
 
-**ColorPop** is an app that... [allows you to instantly transform your app's background with random colors at the tap of a button.] 
+**CineMatch** is an app that... [designed to help users discover the perfect movie for any mood, occasion, or preference.] 
 
 Time spent: **3** hours spent in total
 
@@ -21,6 +21,8 @@ The following **required** functionality is completed:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+Sorry, I have issues with Loom, so I recorded in Zoom. Please let me know what works for you to view my video.
 
 ## App Brainstorming (Step 4)
 

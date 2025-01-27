@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         // Customizing a label
             let titleLabel = UILabel(frame: CGRect(x: 50, y: 100, width: 300, height: 50))
-            titleLabel.text = "Welcome to ColorPop"
+            titleLabel.text = "Welcome to CineMatch"
             titleLabel.font = UIFont(name: "AvenirNext-Bold", size: 24)
             titleLabel.textColor = .white
             titleLabel.textAlignment = .center
